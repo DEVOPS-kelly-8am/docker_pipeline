@@ -27,7 +27,7 @@
 	<div class="container">
 
 		<header>
-			<h1>DEVOPS trianing Solutions Pvt Ltd . DEVOPS-TRAINING: 8142420333 (SivaPrasad ) ...</h1>
+			<h1>Cangk Solutions Pvt Ltd . DEVOPS-TRAINING: 9666664184 (Narendra) ...</h1>
 		</header>
 
 		<div id="tabs">
@@ -35,7 +35,7 @@
 			<li><a href="#tabs-1">Jenkins</a></li>
 				<li><a href="#tabs-2">Docker</a></li>
 				<li><a href="#tabs-3">Ansible</a></li>
-				<li><a href="#tabs-4">Cellphones</a></li>
+				<li><a href="#tabs-4">Mobiles</a></li>
 			</ul>
 			<div id="tabs-1">
 				<p>Jenkins is a powerful application that allows continuous
